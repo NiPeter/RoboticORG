@@ -1,0 +1,12 @@
+F:\Workspace\Visual Studio\RoboticORG\RoboticORG\bin\Debug\RoboticORG.exe.config
+F:\Workspace\Visual Studio\RoboticORG\RoboticORG\bin\Debug\RoboticORG.exe
+F:\Workspace\Visual Studio\RoboticORG\RoboticORG\bin\Debug\RoboticORG.pdb
+F:\Workspace\Visual Studio\RoboticORG\RoboticORG\bin\Debug\MathNet.Numerics.dll
+F:\Workspace\Visual Studio\RoboticORG\RoboticORG\bin\Debug\MathNet.Spatial.dll
+F:\Workspace\Visual Studio\RoboticORG\RoboticORG\bin\Debug\OpenTK.dll
+F:\Workspace\Visual Studio\RoboticORG\RoboticORG\bin\Debug\MathNet.Numerics.xml
+F:\Workspace\Visual Studio\RoboticORG\RoboticORG\bin\Debug\MathNet.Spatial.xml
+F:\Workspace\Visual Studio\RoboticORG\RoboticORG\bin\Debug\OpenTK.xml
+F:\Workspace\Visual Studio\RoboticORG\RoboticORG\obj\Debug\RoboticORG.csprojResolveAssemblyReference.cache
+F:\Workspace\Visual Studio\RoboticORG\RoboticORG\obj\Debug\RoboticORG.exe
+F:\Workspace\Visual Studio\RoboticORG\RoboticORG\obj\Debug\RoboticORG.pdb

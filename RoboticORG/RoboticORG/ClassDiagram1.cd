@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="RoboticORG.Camera" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAgAAAAAAAKBAAACAAEAAAAIAAIAAAAAA=</HashCode>
+      <FileName>Camera.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RoboticORG.Ground" Collapsed="true">
+    <Position X="2" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAQAIAAAAAAAAAAAAAQAEAAAAAAAAA=</HashCode>
+      <FileName>Object3D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RoboticORG.Rectangle" Collapsed="true">
+    <Position X="4.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAQAEAAAAAAAAA=</HashCode>
+      <FileName>Object3D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RoboticORG.CS" Collapsed="true">
+    <Position X="8.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAQAEAAAAAAAAA=</HashCode>
+      <FileName>Object3D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RoboticORG.ColoredObject3D" Collapsed="true">
+    <Position X="4.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Object3D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RoboticORG.Object3D" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAsAgAAIAAAAAAAAAAAAQAEAAAAAAgAA=</HashCode>
+      <FileName>Object3D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RoboticORG.Program" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RoboticORG.Robot" Collapsed="true">
+    <Position X="6.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgEEAAAAAAAAAAAAAAAQAEAAAAAAAAg=</HashCode>
+      <FileName>Robot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RoboticORG.DH" Collapsed="true">
+    <Position X="8.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAEAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Robot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RoboticORG.Translational" Collapsed="true">
+    <Position X="7.5" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Robot.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RoboticORG.Revolute" Collapsed="true">
+    <Position X="9.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Robot.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="RoboticORG.Joint" Collapsed="true">
+    <Position X="8.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAACAAAEAIAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Robot.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="RoboticORG.Visualisation" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="4.25" />
+    <TypeIdentifier>
+      <HashCode>AAABBAAAAQAAAACAQAAAAAACABIAACAAICIAEAACAAA=</HashCode>
+      <FileName>Visualisation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="RoboticORG.IControlable" Collapsed="true">
+    <Position X="6.5" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Robot.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
